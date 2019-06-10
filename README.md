@@ -23,4 +23,4 @@ used JWT tokens to authenticate the incoming request.
 
 used SQLAlchemy CRUD method on a database is achieved through few lines of code, used sqlite3, in production it can be changed to PostgreSQL or MySQL with api.config 
 
-The production version will be delpoyed in Amazon EC2, using NGINIX and WGSI.
+The production version will be deployed in Amazon EC2, using NGINIX and WGSI.
